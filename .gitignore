@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+.env
+.env.*
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+
+# Streamlit
+.streamlit/
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
